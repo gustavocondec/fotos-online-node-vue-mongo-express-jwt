@@ -1,5 +1,5 @@
 #   Fotos Online 
-[Puede ver el demo en vivo en :] ver-recuerdo.herokuapp.com
+[Puede ver el demo en vivo en :] (ver-recuerdo.herokuapp.com)
 Desplegado en heroku
 bd: Mongo DB Atlas
 
